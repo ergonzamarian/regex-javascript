@@ -1,4 +1,7 @@
 # regex-javascript
+
+Projeto base utilizado do curso sobre expressões regulares da Alura
+
 Expressões Regulares com JavaScript (Regular Expressions with Java Script)
 
 Regex, ou expressões regulares, é uma linguagem para encontrar padrões de texto.
