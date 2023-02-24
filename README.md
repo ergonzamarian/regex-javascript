@@ -2,18 +2,18 @@
 
 Projeto base utilizado do curso sobre expressões regulares da Alura
 
-Expressões Regulares com JavaScript (Regular Expressions with Java Script)
+- Expressões Regulares com JavaScript (Regular Expressions with Java Script)
 
-Regex, ou expressões regulares, é uma linguagem para encontrar padrões de texto.
+- Regex, ou expressões regulares, é uma linguagem para encontrar padrões de texto.
 
-Sendo uma linguagem independente, existem interpretadores para a maioria das plataformas de desenvolvimento, como JavaScript, C#, Python ou Ruby.
+- Sendo uma linguagem independente, existem interpretadores para a maioria das plataformas de desenvolvimento, como JavaScript, C#, Python ou Ruby.
 
-Uma classe de caracteres predefinida é \d, que significa qualquer dígito.
+- Uma classe de caracteres predefinida é \d, que significa qualquer dígito.
 
-Existem vários meta-char, como . ou *.
+- Existem vários meta-char, como . ou *.
 
 Existem quantifiers que definem quantas vezes um caractere deve aparecer:
-{1} é um quantifier que significa uma vez.
-* é um quantifier que significa zero, uma ou mais vezes
-. é um meta-char que significa qualquer char.
-Com \ podemos escapar meta-chars, por exemplo \..
+- {1} é um quantifier que significa uma vez.
+- * é um quantifier que significa zero, uma ou mais vezes
+- . é um meta-char que significa qualquer char.
+- Com \ podemos escapar meta-chars, por exemplo \..
